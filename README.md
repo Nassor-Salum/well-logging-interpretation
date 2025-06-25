@@ -37,15 +37,6 @@ Analyzed Density and Photoelectric Effect (PEF) logs to distinguish sandstone, d
 
 ![Lithology Identification](images/lithology_identification.png)
 
----
-
-## 📁 Repository Structure
-
-| File/Folder | Description |
-|-------------|-------------|
-| `images/` | Contains plots and screenshots from Excel |
-| `data/` | Contains the raw Excel analysis file |
-| `README.md` | This documentation |
 
 ---
 
@@ -67,5 +58,8 @@ This Excel-based well logging interpretation successfully:
 - Evaluated wellbore integrity from log plots
 
 ---
-
 📥 **[Download Full Excel File](data/well_log_analysis.xlsx)**  
+
+---
+##Auther
+**Nassor**
