@@ -62,9 +62,9 @@ This Excel-based well logging interpretation successfully:
 ---
 ## 📈 Full Excel Workbook
 
-📊 **[Click to View Excel Workbook on Google Drive](https://docs.google.com/spreadsheets/d/1Wy0hV_Q4vLOiMHvMCwpPz1LqQ3yi99HO/edit?usp=drivesdk&ouid=103202141941563697837&rtpof=true&sd=true)**  
+📥 **[Click to download the Excel Workbook](https://drive.google.com/uc?export=download&id=1Wy0hV_Q4vLOiMHvMCwpPz1LqQ3yi99HO)**    
 _This contains all formulas, plots, and shale volume models._
 
 ---
-## Author
-**Nassor**
+## Author 
+  **Nassor**
