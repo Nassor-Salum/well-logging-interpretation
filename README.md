@@ -61,5 +61,5 @@ This Excel-based well logging interpretation successfully:
 📥 **[Download Full Excel File](data/well_log_analysis.xlsx)**  
 
 ---
-##Auther
+## Author
 **Nassor**
